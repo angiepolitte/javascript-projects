@@ -3,7 +3,7 @@
 // Run the code and find the mistakes. 
 // Only ONE error will be flagged at a time. 
 // Fix that ONE problem, and then re-run the code to check yer work. Avoid trying to fix multiple issues at once.
-
+//completed
 let launchReady = false;
 let crewStatus = true;
 let computerStatus = 'green';

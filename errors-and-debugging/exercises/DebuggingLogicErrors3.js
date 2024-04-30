@@ -32,4 +32,5 @@ if (crewStatus && computerStatus === 'green'){
 //    console.log('Liftoff!');
 // } else {
 //    console.log('Launch scrubbed.');
-// }
+//
+//completed }
