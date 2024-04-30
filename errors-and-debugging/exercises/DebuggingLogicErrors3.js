@@ -24,6 +24,7 @@ if (crewStatus && computerStatus === 'green'){
 } else {
    console.log('WARNING: Crew or computer not ready!');
    launchReady = false;
+   console.log(launchReady);
 }
 
 // if (launchReady) {
